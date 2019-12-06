@@ -1,3 +1,12 @@
 [submodule "Project0"]
 	path = Project0
 	url = https://github.com/gsoosk/Pacman-Search.git
+[submodule "Project1"]
+	path = Project1
+	url = https://github.com/gsoosk/Pacman-Search.git
+[submodule "Project2"]
+	path = Project2
+	url = https://github.com/gsoosk/MinMaxAlg-On-Konane
+[submodule "Project3"]
+	path = Project3
+	url = https://github.com/gsoosk/Hafez-And-Saadi-Classification
