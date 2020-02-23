@@ -5,4 +5,6 @@ This repository contains of my AI course projects, and they listed bellow.
 * Project1: Search Algorithms (`BFS`, `DFS`, and `IDS`)
 * Project2: `Min-Max` Algorithm with `Alpha Pruning` 
 * Project3: `Naive Bayes` Model
+* Project4: Introduction to `Ensemble`, `Bootstraping`, and etc. It also implements Random Forest model. 
+
 
