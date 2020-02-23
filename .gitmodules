@@ -13,3 +13,6 @@
 [submodule "Project4"]
 	path = Project4
 	url = https://github.com/gsoosk/RandomForest-Implementaition.git
+[submodule "Project5"]
+	path = Project5
+	url = https://github.com/gsoosk/Simple-NeuralNet-Impl.
